@@ -1,0 +1,4 @@
+*.mo
+*.sv.po
+*.bak
+.DS_Store

@@ -1,0 +1,826 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright Kasper Skov-Nielsen <kasper@openusource.com>
+# No version information was available in the source files.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubercart cart\n"
+"POT-Creation-Date: 2008-01-23 16:35-0400\n"
+"PO-Revision-Date: 2008-01-23 00:27+0100\n"
+"Last-Translator: Kasper Skov-Nielsen <kasper@openusource.com>\n"
+"Language-Team: Danish <kasper@openusource.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: uc_cart.module:27;52;497
+msgid "Cart settings"
+msgstr "Indstillinger for indkøbsliste"
+
+#: uc_cart.module:30
+msgid "Configure the cart settings."
+msgstr "Konfigurer Indstillinger for indkøbslisteen."
+
+#: uc_cart.module:34;87
+msgid "Overview"
+msgstr "Oversigt"
+
+#: uc_cart.module:36
+msgid "View the cart settings."
+msgstr "Vis indkøbslistesIndstillingerne."
+
+#: uc_cart.module:42;95
+msgid "Edit"
+msgstr "Rediger"
+
+#: uc_cart.module:46;99
+msgid "Edit the cart settings."
+msgstr "Rediger indkøbslisteindstillingerne."
+
+#: uc_cart.module:54
+msgid "Edit the basic cart settings."
+msgstr "Rediger grundlæggende indkøbslistesIndstillinger."
+
+#: uc_cart.module:60
+msgid "Cart panes"
+msgstr "indkøbslistepanel"
+
+#: uc_cart.module:64
+msgid "Edit the pane settings for the cart view page."
+msgstr "Rediger panelindstillingern for indkøbslistevisningen."
+
+#: uc_cart.module:70;534
+msgid "Cart block"
+msgstr "indkøbslistesblok"
+
+#: uc_cart.module:73
+msgid "Edit the settings for the shopping cart block."
+msgstr "Rediger Indstillingerne for indkøbslistesblokken."
+
+#: uc_cart.module:80;105;708
+msgid "Checkout settings"
+msgstr "Indstillinger for kassen"
+
+#: uc_cart.module:83
+msgid "Configure the checkout settings."
+msgstr "Konfigurer indstillinger for kassen."
+
+#: uc_cart.module:89
+msgid "View the checkout settings."
+msgstr "Vis indstillinger for kassen."
+
+#: uc_cart.module:107
+msgid "Edit the basic checkout settings."
+msgstr "Rediger grundlæggende indstillinger for kassen."
+
+#: uc_cart.module:113
+msgid "Checkout panes"
+msgstr "Checkout paneler"
+
+#: uc_cart.module:117
+msgid "Edit the pane settings for the checkout page."
+msgstr "Rediger panelindstillinger for checkoutsiden"
+
+#: uc_cart.module:123;773
+msgid "Checkout messages"
+msgstr "Checkout beskeder"
+
+#: uc_cart.module:127
+msgid "Edit the messages for the checkout completion page."
+msgstr "Rediger besked for checkout afslutningsside"
+
+#: uc_cart.module:133;796
+msgid "Address fields"
+msgstr "Adressefelt"
+
+#: uc_cart.module:137
+msgid "Edit the address field settings."
+msgstr "Rediger adressefeltindstillinger"
+
+#: uc_cart.module:144;201;273
+msgid "Shopping Cart"
+msgstr "Indkøbsliste"
+
+#: uc_cart.module:145
+msgid "View/modify the contents of your shopping cart or proceed to checkout."
+msgstr "Vis/Rediger indholdet af din indkøbsliste eller forsæt til bestilling."
+
+#: uc_cart.module:152;324;1009;1095
+msgid "Checkout"
+msgstr "Bestilling..."
+
+#: uc_cart.module:153
+msgid "Purchase the items in your shopping cart."
+msgstr "Bestil emnerne i din indkøbsliste."
+
+#: uc_cart.module:160;712;821;1190
+msgid "Review Order"
+msgstr "Gennemse bestilling"
+
+#: uc_cart.module:161
+msgid "Review an order before final submission."
+msgstr "Gennemse ordre før endelig godkendelse."
+
+#: uc_cart.module:168
+msgid "Order Complete"
+msgstr "Ordre gennemført"
+
+#: uc_cart.module:169
+msgid "Display information upon completion of an order."
+msgstr "Vis information ved gennemførsel af ordre."
+
+#: uc_cart.module:235
+msgid "Hide block if cart is empty."
+msgstr "Skjul blokken hvis indkøbslisten er tom."
+
+#: uc_cart.module:240
+msgid "Display the shopping cart expanded by default."
+msgstr "Vis indkøbslisten udfoldet."
+
+#: uc_cart.module:245
+msgid "Display small help text in the shopping cart block."
+msgstr "Vis hjælpetekst i indkøbslisteblokken."
+
+#: uc_cart.module:250
+msgid "Cart help text"
+msgstr "Hjælpetekst til indkøbsliste"
+
+#: uc_cart.module:251
+msgid "Displayed if the above box is checked."
+msgstr "Vist vis ovenstående er aktiveret"
+
+#: uc_cart.module:253;292;527
+msgid "Click title to display cart contents."
+msgstr "Klik på titlen for at vis indholdet af indkøbslisten."
+
+#: uc_cart.module:270
+msgid "View your shopping cart."
+msgstr "Se din indkøbsliste."
+
+#: uc_cart.module:272
+msgid "Expand cart block."
+msgstr "Udvid indkøbslisten."
+
+#: uc_cart.module:316;953
+msgid "There are no products in your shopping cart."
+msgstr "Der findes ingen produkter på din indkøbsliste."
+
+#: uc_cart.module:321
+msgid "Item"
+msgstr "Produkter"
+
+#: uc_cart.module:321
+msgid "Items"
+msgstr "Produkt"
+
+#: uc_cart.module:322
+msgid "View cart"
+msgstr "Vis indkøbsliste"
+
+#: uc_cart.module:329
+msgid "Total:"
+msgstr "Total:"
+
+#: uc_cart.module:401
+msgid "Display information on products in a customer's cart."
+msgstr "Vis information om produkter i kundens indkøbsliste."
+
+#: uc_cart.module:420;1280
+msgid "Please review the details of your order and click !submit if all the information is correct.  You may use the Back button to make changes to your order if necessary."
+msgstr "Gennemse detaljerne i din bestilling og klik på !submit hvis alle informationer er korrekte.  Du kan anvende Tilbage-knappen for at lave ændringer i bestillingen om nødvendigt."
+
+#: uc_cart.module:420;713;827;1281;1331;1338
+msgid "Submit Order"
+msgstr "Send bestilling"
+
+#: uc_cart.module:421;2148
+msgid "Your order is complete!"
+msgstr "Din bestilling er færdig!"
+
+#: uc_cart.module:422
+msgid "Thank you for shopping at !site. While logged in, you may continue shopping or <a href=\"!url\">click here</a> to view your current order status and order history."
+msgstr "Tak fordi du handlede på !site. Hvis du er logget ind kan du fortsætte med at handle eller <a href=\"!url\">klik her</a> for at vise status for din aktuelle bestilling samt bestillingshistorik."
+
+#: uc_cart.module:423
+msgid "Thank you for shopping at !site. Your current order has been attached to the account we found matching your e-mail address."
+msgstr "Tak fordi du handler hos !site. Din aktuelle bestilling er tilføjet til kontoen som matchede din email."
+
+#: uc_cart.module:423
+msgid "<a href=\"!url\">Click here</a> to login and view your current order status and order history. Remember to login when you make your next purchase for a faster checkout experience!"
+msgstr "<a href=\"!url\">Klik hér</a> for at logge ind og se din aktuelle bestillingsstatus samt bestillingshistorik. Husk at logge ind når du foretager dit næste køb for nemmere bestilling!"
+
+#: uc_cart.module:424
+msgid "Thank you for shopping at !site. A new account has been created for you here that you may use to view your current order status."
+msgstr "Tak fordi du handler hos !site. En ny konto er oprettet til dig som du kan bruge for at se din aktuelle bestillingsstatus."
+
+#: uc_cart.module:424
+msgid "<p><a href=\"!url\">Click here</a> to login to your new account using the following information:"
+msgstr "<p><a href=\"!url\">Klik hér</a> for at logge ind på din nye konto med følgende informationer:"
+
+#: uc_cart.module:424
+msgid "<p><b>Username:</b> !new_username<br /><b>Password:</b> !new_password"
+msgstr "<p><b>Brugernavn:</b> !new_username<br /><b>Adgangskode:</b> !new_password"
+
+#: uc_cart.module:425
+msgid "Click to return to the front page."
+msgstr "Klik for at vende tilbage til forsiden."
+
+#: uc_cart.module:436
+msgid "Default cart form"
+msgstr "Grundlæggende indkøbsliste"
+
+#: uc_cart.module:452
+msgid "Cart Contents"
+msgstr "Indkøbslistens indhold"
+
+#: uc_cart.module:453
+msgid "Display the contents of a customer's shopping cart."
+msgstr "Vis indholdet af en kundes indkøbsliste"
+
+#: uc_cart.module:461
+msgid "Customer Information"
+msgstr "Kundeinformation"
+
+#: uc_cart.module:462
+msgid "Get the necessary information to create a customer on the site."
+msgstr "Hent de nødvendige informationer for at oprette en kunde på siden."
+
+#: uc_cart.module:468;1530
+msgid "Delivery Information"
+msgstr "Leveringsinformation"
+
+#: uc_cart.module:469
+msgid "Get the information for where the order needs to ship."
+msgstr "Hent leveringsoplysninger."
+
+#: uc_cart.module:475;1643
+msgid "Billing Information"
+msgstr "Faktureringsoplysninger"
+
+#: uc_cart.module:476
+msgid "Get basic information needed to collect payment."
+msgstr "Hent basis information for opkrævning af betaling."
+
+#: uc_cart.module:482;1721
+msgid "Order Comments"
+msgstr "Kommentarer till bestillingen"
+
+#: uc_cart.module:483
+msgid "Allow a customer to put comments on an order."
+msgstr "Tillåt en kund att skriva in kommentarer till en bestilling."
+
+#: uc_cart.module:499
+msgid "Anonymous cart duration is !duration."
+msgstr "Anonym indkøbsliste udløber efter !duration."
+
+#: uc_cart.module:502
+msgid "Authenticated cart duration is !duration."
+msgstr "Indlogget indkøbsliste udløber efter !duration."
+
+#: uc_cart.module:505
+msgid "Add item URL redirect is:<br />!url"
+msgstr "Tilføj emne URL-redirect er:<br />!url"
+
+#: uc_cart.module:507
+msgid "Continue shopping !type is:<br />!link"
+msgstr "Forsæt indkøb !type er:<br />!link"
+
+#: uc_cart.module:508
+msgid "link"
+msgstr "link"
+
+#: uc_cart.module:508
+msgid "button"
+msgstr "knap"
+
+#: uc_cart.module:509;645;998;1024;1086
+msgid "Continue shopping"
+msgstr "Fortsæt med at handle"
+
+#: uc_cart.module:510
+msgid "Minimum order subtotal is !min."
+msgstr "Mindste subtotal for en bestilling er !min."
+
+#: uc_cart.module:517;723
+msgid "!title is !enabled."
+msgstr "!title er !enabled."
+
+#: uc_cart.module:517;710;717;723;792
+msgid "enabled"
+msgstr "aktiveret"
+
+#: uc_cart.module:517;710;717;723;792
+msgid "disabled"
+msgstr "deaktiveret"
+
+#: uc_cart.module:521
+msgid "Cart panes (in display order)"
+msgstr "Indkøbsliste paneler (vist i rækkefølge)"
+
+#: uc_cart.module:526
+msgid "Help text is shown in block:"
+msgstr "Hjælpetekst er vist i blok"
+
+#: uc_cart.module:530
+msgid "Help text is not shown in block."
+msgstr "Hjælpetekst er ikke vist i blok."
+
+#: uc_cart.module:536
+msgid "Cart block is !option when empty."
+msgstr "Indkøbslisteblokken er !option når den er tom."
+
+#: uc_cart.module:537
+msgid "hidden"
+msgstr "skjult"
+
+#: uc_cart.module:537
+msgid "shown"
+msgstr "Vist"
+
+#: uc_cart.module:538
+msgid "Cart block is !option by default."
+msgstr "Indkøbslisteblokken er !option som standard."
+
+#: uc_cart.module:539
+msgid "expanded"
+msgstr "ekspanderet"
+
+#: uc_cart.module:539
+msgid "collapsed"
+msgstr "sammenklappet"
+
+#: uc_cart.module:550
+msgid "Drupal handles all the block settings forms automatically."
+msgstr "Drupal håndterer alle blokindstillinger automatisk."
+
+#: uc_cart.module:551
+msgid "<a href=\"!url\">Click here</a> to goto the shopping cart block configuration page."
+msgstr "<a href=\"!url\">Klik hér</a> for at gå til konfigurationssidan for indkøbslistesblokken."
+
+#: uc_cart.module:560
+msgid "Anonymous cart settings"
+msgstr "Indstillinger for anonym indkøbsliste"
+
+#: uc_cart.module:564
+msgid "Set the length of time products remain in the cart for customers who <b>have not</b> logged in."
+msgstr "Indstil tidsperiode for hvor lang til varerne forbliver i indkøbslisten for kunder der <b>ikke</b> er logget ind."
+
+#: uc_cart.module:569;597
+msgid "Duration"
+msgstr "Varighed"
+
+#: uc_cart.module:576;604
+msgid "Unit of time"
+msgstr "Tidsenhed"
+
+#: uc_cart.module:578;606
+msgid "hour(s)"
+msgstr "time(r)"
+
+#: uc_cart.module:579;607
+msgid "day(s)"
+msgstr "dag(e)"
+
+#: uc_cart.module:580;608
+msgid "week(s)"
+msgstr "uge(r)"
+
+#: uc_cart.module:581;609
+msgid "year(s)"
+msgstr "år"
+
+#: uc_cart.module:588
+msgid "Authenticated cart settings"
+msgstr "Indstillinger for autentificeret indkøbsliste"
+
+#: uc_cart.module:592
+msgid "Set the length of time products remain in the cart for customers who <b>have</b> logged in."
+msgstr "Indstil tidsperiode for hvor lang til varerne forbliver i indkøbslisten for kunder der <b>er</b> logget ind."
+
+#: uc_cart.module:617
+msgid "Minimum order subtotal"
+msgstr "Mindste subtotal for bestilling"
+
+#: uc_cart.module:618
+msgid "Minimum allowed subtotal for a cart to proceed to checkout."
+msgstr "Mindste tilladte subtotal for at indkøbslisten kan behandles."
+
+#: uc_cart.module:627
+msgid "Add to cart redirect"
+msgstr "Tilføj til indkøbsliste omdiregering"
+
+#: uc_cart.module:628
+msgid "Enter the Drupal page to redirect to when a customer adds an item to their cart.<br />Enter &lt;none&gt; for no redirect."
+msgstr "Indtast den Drupal-side der skal omdirigeres til når en kunde tilføjer en vare til indkøbslisten.<br />Indtast &lt;none&gt; for ingen omdiregering."
+
+#: uc_cart.module:635
+msgid "Continue shopping link URL"
+msgstr "Fortsæt med at handle link URL"
+
+#: uc_cart.module:636
+msgid "Enter the Drupal page for the link to continue shopping from the cart view page.<br />Enter &lt;none&gt; for no link to appear."
+msgstr "Indtast den Drupal-side der skal omdirigeres til fra indkøbslisten for at forsætte med at handle.<br />Indtast &lt;none&gt; for ingen omdiregering."
+
+#: uc_cart.module:643
+msgid "Continue shopping link text"
+msgstr "Fortsæt med at handle - link tekst"
+
+#: uc_cart.module:644
+msgid "Enter the text for the continue shopping link."
+msgstr "Indtast teksten for linket til at fortsætte med at handle."
+
+#: uc_cart.module:649
+msgid "Display the continue shopping link as"
+msgstr "Vis fortsæt med at handle linkt som"
+
+#: uc_cart.module:651
+msgid "A text link"
+msgstr "Et tekstlink"
+
+#: uc_cart.module:652
+msgid "A button link"
+msgstr "Et knaplink"
+
+#: uc_cart.module:658
+msgid "Default cart breadcrumb URL"
+msgstr "Standard indkøbsliste breadcrumb URL"
+
+#: uc_cart.module:659
+msgid "Enter the Drupal page linked to in the default breadcrumb on the cart view page."
+msgstr "Indtast Drupal-siden som der skal linkes til i standard breadcrumb på indkøbslistesiden."
+
+#: uc_cart.module:666
+msgid "Default cart breadcrumb text"
+msgstr "Standard indkøbsliste breadcrumb tekst"
+
+#: uc_cart.module:667
+msgid "Enter the text for the default breadcrumb on the cart page."
+msgstr "Indtast teksten for standard breadcrumb på indkøbslistesiden."
+
+#: uc_cart.module:668;968
+msgid "Home"
+msgstr "Hjem"
+
+#: uc_cart.module:676
+msgid "Minimum order subtotal should be a non-negative number."
+msgstr "Minimun ordre subtotal skal være et positivt tal."
+
+#: uc_cart.module:710
+msgid "Checkout is !status."
+msgstr "Kassen er !status."
+
+#: uc_cart.module:711
+msgid "Next buttons on checkout panes say %text."
+msgstr "Næste knapper på checkout panelernen hedder %text."
+
+#: uc_cart.module:711;815;1797
+msgid "Next"
+msgstr "Næste"
+
+#: uc_cart.module:712
+msgid "Review order button on checkout page says %text."
+msgstr "Gennemse ordre knap på checkoutsiden hedder %text."
+
+#: uc_cart.module:713
+msgid "Submit order button on review page says %text."
+msgstr "Gennemfør ordre knap på gennemse-siden hedder %text."
+
+#: uc_cart.module:714
+msgid "Checkout panes are !option."
+msgstr "Checkoutpaneler er !option."
+
+#: uc_cart.module:714
+msgid "collapsed with next buttons"
+msgstr "sammenklappet med næste-knapper"
+
+#: uc_cart.module:714
+msgid "expanded by default"
+msgstr "udfoldet som standard"
+
+#: uc_cart.module:715
+msgid "Shipping fields are !option."
+msgstr "Leveringsfelter är !option."
+
+#: uc_cart.module:715
+msgid "hidden when applicable"
+msgstr "skjult når valgbare"
+
+#: uc_cart.module:715
+msgid "always shown"
+msgstr "Vis altid"
+
+#: uc_cart.module:716
+msgid "New customers !option."
+msgstr "Nye kunder !option."
+
+#: uc_cart.module:716
+msgid "receive an e-mail with their account details"
+msgstr "modtag en e-mail med deres konto informationer"
+
+#: uc_cart.module:716
+msgid "will only see their details in their initial order e-mail."
+msgstr "vil kun se deres informationer i deres ordre e-mail."
+
+#: uc_cart.module:717
+msgid "Anonymous checkout is !status."
+msgstr "Anonym checkout er !status."
+
+#: uc_cart.module:727
+msgid "Checkout panes (in display order)"
+msgstr "Checkoutpaneler (i visningsorden)"
+
+#: uc_cart.module:734
+msgid "Checkout instructions are"
+msgstr "Instruktioner for kassen er"
+
+#: uc_cart.module:738
+msgid "Review instructions are"
+msgstr "Gennemse instruktioner er"
+
+#: uc_cart.module:742
+msgid "Completion message is"
+msgstr "Gennemført besked er"
+
+#: uc_cart.module:746
+msgid "Completion text for logged in users is"
+msgstr "Gennemført besked for indlogget kunde er"
+
+#: uc_cart.module:750
+msgid "Completion text for not logged in users is"
+msgstr "Gennemført besked for ikke indlogget kunde er"
+
+#: uc_cart.module:754
+msgid "Completion text for totally new users is"
+msgstr "Gennemført besked for helt ny kunde er"
+
+#: uc_cart.module:758
+msgid "Continue shopping text is"
+msgstr "Tekst for at fortsætte med at handle er"
+
+#: uc_cart.module:765
+msgid "!title not set."
+msgstr "!title er ikke sat."
+
+#: uc_cart.module:768
+msgid "!title set."
+msgstr "!title er sat."
+
+#: uc_cart.module:792
+msgid "!field is !status."
+msgstr "!field er !status."
+
+#: uc_cart.module:808
+msgid "Enable checkout (disable to only use third party checkout service like Google Checkout)."
+msgstr "Akvtiver checkout (deaktiver kun ved brug af tredjeparts checkout som eks. Google Checkout)."
+
+#: uc_cart.module:813
+msgid "Next Pane Button Text"
+msgstr "Næste panel knap tekst"
+
+#: uc_cart.module:814
+msgid "Change the text on the checkout pane buttons to expand the next pane."
+msgstr "Skift knaptekst på checkoutpanelkanpper for at vise næste panel." 
+
+#: uc_cart.module:819
+msgid "Review Order Button Text"
+msgstr "Gennemse ordre knap tekst"
+
+#: uc_cart.module:820
+msgid "Change the text on the review order button at the bottom of the checkout screen."
+msgstr "Skift knaptekst på gennemse ordre kanppen i bunden af checkout-siden."
+
+#: uc_cart.module:825
+msgid "Submit Order Button Text"
+msgstr "Indsend ordre knaptekst"
+
+#: uc_cart.module:826
+msgid "Change the text on the submit order button at the bottom of the review screen."
+msgstr "Skift knaptekst på Indsend ordre knappen i bunden af gennemse-siden."
+
+#: uc_cart.module:831
+msgid "Use collapsing checkout panes with next buttons during checkout."
+msgstr "Benyt sammenklappede paneler med næste knapper ved checkout."
+
+#: uc_cart.module:836
+msgid "Hide shipping information when possible for carts with no shippable items."
+msgstr "Gem forsendelsesopslysninger hvis muligt for indkøbslister uden varer der kan sendes."
+
+#: uc_cart.module:841
+msgid "Send new customers a separate e-mail with their account details."
+msgstr "Send nye kunder en separat e-mail med deres kontooplysninger."
+
+#: uc_cart.module:846
+msgid "Enable anonymous checkout (users can checkout without logging in)."
+msgstr "Aktiver anonym checkout (kunder kan gennemføre bestilling uden at logge ind)."
+
+#: uc_cart.module:851
+msgid "Alternate checkout completion page"
+msgstr "Alternativ checkout afslutningsside"
+
+#: uc_cart.module:852
+msgid "Leave blank to use the default completion page."
+msgstr "Efterlad tom, for at benytte standard afslutningsside."
+
+#: uc_cart.module:888;895
+msgid "Checkout Instructions"
+msgstr "Instruktioner for kassen"
+
+#: uc_cart.module:889
+msgid "Provide instructions for customers at the top of the checkout screen."
+msgstr "Vis instruktioner til kunder i toppen af checkoutsiden."
+
+#: uc_cart.module:896
+msgid "Provide instructions for customers at the top of the checkout review screen."
+msgstr "Vis indtruktioner til kunder i toppen af gennemse siden."
+
+#: uc_cart.module:902
+msgid "Checkout Message Header"
+msgstr "Checkout besked overskrift"
+
+#: uc_cart.module:903
+msgid "Header for message displayed after a user checks out."
+msgstr "Overskrift på besked vist efter kunden checker ud."
+
+#: uc_cart.module:908
+msgid "In the following three boxes, you may use !site to print the site name, !new_username for the username of a newly created account, and !new_password for that account's password."
+msgstr "I de følgende tre bokse kan du bruge !site for at udskrive site-navn, !new_username for brugernavnet på en nyoprettet kunde, og !new_password for denne kontos adgangskode."
+
+#: uc_cart.module:912
+msgid "Checkout Completion for Logged-in Users"
+msgstr "Checkout afslutning for indloggede kunder"
+
+#: uc_cart.module:913
+msgid "Message displayed upon checkout for a user who has logged in."
+msgstr "Besked som vises til kunder der er logget ind ved checkout."
+
+#: uc_cart.module:919
+msgid "Checkout Completion for Existing Users"
+msgstr "Checkout afslutning for eksisterende kunder"
+
+#: uc_cart.module:920
+msgid "Message displayed upon checkout for a user who has an account but wasn't logged in."
+msgstr "Besked som vises til kunder der har en konto men ikke er logget ind ved checkout."
+
+#: uc_cart.module:926
+msgid "Checkout Completion for New Users"
+msgstr "Checkout afslutning for nye kunder"
+
+#: uc_cart.module:927
+msgid "Message displayed upon checkout for a new user whose account was just created."
+msgstr "Besked som vises ved checkout til nye kunder som netop har oprettet en konto."
+
+#: uc_cart.module:933
+msgid "Continue Shopping Message"
+msgstr "Fortsæt med at handle besked"
+
+#: uc_cart.module:934
+msgid "Message displayed upon checkout to direct customers to another part of your site."
+msgstr "Besked som vises ved checkout for at dirigere kunder til andre steder på dit site."
+
+#: uc_cart.module:964;1325;1330
+msgid "Back"
+msgstr "Tilbage"
+
+#: uc_cart.module:1004;1089
+msgid "Update cart"
+msgstr "Opdatér indkøbsliste"
+
+#: uc_cart.module:1043
+msgid "Remove"
+msgstr "Fjern"
+
+#: uc_cart.module:1045;1897
+msgid "Products"
+msgstr "Produkter"
+
+#: uc_cart.module:1049;1896
+msgid "Qty."
+msgstr "Antal"
+
+#: uc_cart.module:1051
+msgid "Total"
+msgstr "Totalt"
+
+#: uc_cart.module:1074;1916
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: uc_cart.module:1111
+msgid "The minimum order subtotal for checkout is !min."
+msgstr "Minimum ordre subtotal for checkout er !min."
+
+#: uc_cart.module:1132
+msgid "You must login before you can proceed to checkout."
+msgstr "Du skal logge ind før du kan fortsætte til kassen."
+
+#: uc_cart.module:1133
+msgid "If you do not have an account, you can <a href=\"!base_pathuser/register\">click here</a> to create one."
+msgstr "Hvis du ikke har en konto kan du <a href=\"!base_pathuser/register\">klikke hér</a> for at oprette en."
+
+#: uc_cart.module:1153;1189
+msgid "Cancel"
+msgstr "Afbryd"
+
+#: uc_cart.module:1378
+msgid "Order created through website."
+msgstr "Ordre oprettet gennem website."
+
+#: uc_cart.module:1439
+msgid "Order information will be sent to your account email listed below."
+msgstr "Ordre information bliver sendt til din e-mail vist nedenfor."
+
+#: uc_cart.module:1440
+msgid "You can edit your account information <a href=\"!url\">here</a>."
+msgstr "Du kan redigere dine kontoinformationer <a href=\"!url\">hér</a>."
+
+#: uc_cart.module:1444
+msgid "Enter a valid email address for this order or <a href=\"!url\">click here</a> to login with an existing account and return to checkout."
+msgstr "Angiv en gyldig e-mail for bestillingen eller <a href=\"!url\">klik hér</a> for at logge ind med en eksisterende konto og vend tilbage til kassen."
+
+#: uc_cart.module:1448
+msgid "E-mail Address"
+msgstr "E-mail"
+
+#: uc_cart.module:1454
+msgid "E-mail"
+msgstr "E-mail"
+
+#: uc_cart.module:1479
+msgid "Fill in the appropriate delivery information here:"
+msgstr "Udfyld leveringsoplysninger hér."
+
+#: uc_cart.module:1481;1594
+msgid "Saved addresses"
+msgstr "Gemte adresser"
+
+#: uc_cart.module:1563;1687
+msgid "Address"
+msgstr "Adresse"
+
+#: uc_cart.module:1564;1688
+msgid "Phone"
+msgstr "Telefon"
+
+#: uc_cart.module:1591
+msgid "Fill in the appropriate billing information here:"
+msgstr "Udfyld faktureringsoplysninger hér:"
+
+#: uc_cart.module:1652
+msgid "Click to copy your delivery information."
+msgstr "Klik for at hente dine leveringsinformationer."
+
+#: uc_cart.module:1713
+msgid "Use this area for special instructions or questions regarding your order:"
+msgstr "Benyt dette felt for at angive kommentarer eller spørgsmål angående din bestilling:"
+
+#: uc_cart.module:1731
+msgid "Comment"
+msgstr "Kommentar"
+
+#: uc_cart.module:1898
+msgid "Price"
+msgstr "Pris"
+
+#: uc_cart.module:1996
+msgid "!title is not a product. Unable to add to cart."
+msgstr "!title er ikke et produkt. Kunne ikke tilføjes indkøbslisten."
+
+#: uc_cart.module:2008
+msgid "Sorry, that item is not available for purchase at this time."
+msgstr "Desværre, produktet er ikke tilgængeligt i øjeblikket."
+
+#: uc_cart.module:2022
+msgid "<strong>!product-title</strong> added to !cart_view."
+msgstr "<strong>!product-title</strong> tilføjet til !cart_view."
+
+#: uc_cart.module:2022
+msgid "your shopping cart"
+msgstr "din indkøbsliste"
+
+#: uc_cart.module:2028
+msgid "Your item(s) have been updated."
+msgstr "Dine produkter er opdateret."
+
+#: uc_cart.module:2151
+msgid "our store"
+msgstr "vor butik"
+
+#: uc_cart.module:0
+msgid "uc_cart"
+msgstr "uc_cart"
+
+#: uc_cart.info:0
+msgid "Cart"
+msgstr "Indkøbsliste"
+
+#: uc_cart.info:0
+msgid "REQUIRED. Controls the shopping cart for an Ubercart e-commerce site."
+msgstr ""
+
+#: uc_cart.info:0
+msgid "Ubercart - core"
+msgstr ""
+

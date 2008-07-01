@@ -1,0 +1,1091 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright Kasper Skov-Nielsen <kasper@openusource.com>
+# No version information was available in the source files.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubercart order\n"
+"POT-Creation-Date: 2007-07-06 16:32-0400\n"
+"PO-Revision-Date: 2007-09-10 00:16+0100\n"
+"Last-Translator: Kasper Skov-Nielsen <kasper@openusource.com>\n"
+"Language-Team: Danish <kasper@openusource.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: uc_order.module:30;56;649
+msgid "Order settings"
+msgstr "Ordreindstillinger"
+
+#: uc_order.module:31;40
+msgid "View the order settings."
+msgstr "Vis ordreindstillinger."
+
+#: uc_order.module:38
+msgid "Overview"
+msgstr "Oversigt"
+
+#: uc_order.module:46;574;3407
+msgid "Edit"
+msgstr "Rediger"
+
+#: uc_order.module:50
+msgid "Edit the order settings."
+msgstr "Rediger ordreindstillinger."
+
+#: uc_order.module:58
+msgid "Edit the basic order settings."
+msgstr "Rediger basale ordreindstillinger"
+
+#: uc_order.module:64;677
+msgid "Order panes"
+msgstr "Bestillingspaneler"
+
+#: uc_order.module:68
+msgid "Edit the pane settings for order pages."
+msgstr "Rediger panelindstillinger for ordresiderne"
+
+#: uc_order.module:75;403
+msgid "Orders"
+msgstr "Ordre"
+
+#: uc_order.module:76;86
+msgid "View and process the orders received through your website."
+msgstr "Vis og behandel ordre modtaget gennem din webside."
+
+#: uc_order.module:85
+msgid "View orders"
+msgstr "Vis ordrer"
+
+#: uc_order.module:94;151;978
+msgid "Create order"
+msgstr "Opret ordre"
+
+#: uc_order.module:95
+msgid "Create an empty new order."
+msgstr "Opret en ny tom ordre."
+
+#: uc_order.module:103
+msgid "Search orders"
+msgstr "Søg i ordrer"
+
+#: uc_order.module:104
+msgid "Search existing orders."
+msgstr "Søg eksisterende ordrer."
+
+#: uc_order.module:112
+msgid "Select address"
+msgstr "Vælg adresse"
+
+#: uc_order.module:119
+msgid "Select customer"
+msgstr "Vælg kundee"
+
+#: uc_order.module:131;167
+msgid "Order !order_id"
+msgstr "Ordre !order_id"
+
+#: uc_order.module:132
+msgid "View order !order_id."
+msgstr "Vis ordre !order_id."
+
+#: uc_order.module:140;234
+msgid "View invoice"
+msgstr "Vis faktura"
+
+#: uc_order.module:141
+msgid "View order !order_id invoice."
+msgstr "Vis faktura for ordre !order_id."
+
+#: uc_order.module:152
+msgid "Create an order for a customer."
+msgstr "Opret en ordre for en kunde."
+
+#: uc_order.module:168
+msgid "View order"
+msgstr "Vis ordre"
+
+#: uc_order.module:176;3580
+msgid "view"
+msgstr "vis"
+
+#: uc_order.module:182;3581
+msgid "edit"
+msgstr "redigera"
+
+#: uc_order.module:191;2574
+msgid "Add a Line Item"
+msgstr "Tilføj ny linie"
+
+#: uc_order.module:199
+msgid "products"
+msgstr "produkter"
+
+#: uc_order.module:207
+msgid "product select"
+msgstr "produkt valg"
+
+#: uc_order.module:216
+msgid "add product"
+msgstr "tilføj produkt"
+
+#: uc_order.module:225;3582
+msgid "invoice"
+msgstr "faktura"
+
+#: uc_order.module:241
+msgid "Printable invoice"
+msgstr "Udskriftsvenlig faktura"
+
+#: uc_order.module:249;1834
+msgid "Mail invoice"
+msgstr "Mail faktura"
+
+#: uc_order.module:259
+msgid "log"
+msgstr "log"
+
+#: uc_order.module:269
+msgid "Delete Order !order_id?"
+msgstr "Slet ordre !order_id?"
+
+#: uc_order.module:270
+msgid "Delete order !order_id."
+msgstr "Slet ordre !order_id."
+
+#: uc_order.module:319
+msgid "Standard delivery"
+msgstr "Standardleverance"
+
+#: uc_order.module:330
+msgid "<i>No comments left.</i>"
+msgstr "<i>Ingen kommentarer.</i>"
+
+#: uc_order.module:332
+msgid "<i>No comment found.</i>"
+msgstr "<i>Ingen kommentarer fundet.</i>"
+
+#: uc_order.module:345
+msgid "New username associated with an order if applicable."
+msgstr ""
+
+#: uc_order.module:346
+msgid "New password associated with an order if applicable."
+msgstr ""
+
+#: uc_order.module:347
+msgid "The order ID."
+msgstr "Ordre ID"
+
+#: uc_order.module:348
+msgid "The URL to the order"
+msgstr "URL til ordre"
+
+#: uc_order.module:349
+msgid "A link to the order using the order ID."
+msgstr "Link til ordre med ordre ID"
+
+#: uc_order.module:350
+msgid "A link to the order admin view page using the order ID."
+msgstr "Link til ordreadministration for ordre ID"
+
+#: uc_order.module:351
+msgid "The subtotal of products on an order."
+msgstr "Subtotal for produkter i en ordre."
+
+#: uc_order.module:352
+msgid "Ordre total."
+msgstr "Beställningens totalsumma."
+
+#: uc_order.module:353
+msgid "The primary e-mail address of the order."
+msgstr "Primær emailadresse for ordren."
+
+#: uc_order.module:354
+msgid "The order shipping address."
+msgstr "Ordrens leveringsadresse."
+
+#: uc_order.module:355
+msgid "The order billing address."
+msgstr "Ordrens fakturaadresse."
+
+#: uc_order.module:356
+msgid "The title of the first shipping line item."
+msgstr ""
+
+#: uc_order.module:357
+msgid "The first name associated with the order."
+msgstr ""
+
+#: uc_order.module:358
+msgid "The last name associated with the order."
+msgstr ""
+
+#: uc_order.module:359
+msgid "Comments left by the customer."
+msgstr "Kommentarer fra kunden."
+
+#: uc_order.module:360
+msgid "Last order comment left by an administrator (not counting the order admin comments)."
+msgstr ""
+
+#: uc_order.module:361
+msgid "The current order status."
+msgstr "Aktuel ordresstatus."
+
+#: uc_order.module:382;2627;2804;2840
+msgid "Date"
+msgstr "Dato"
+
+#: uc_order.module:382
+msgid "Order #"
+msgstr "Ordrenr."
+
+#: uc_order.module:382;789;2627;2810
+msgid "Status"
+msgstr "Status"
+
+#: uc_order.module:382;511
+msgid "Products"
+msgstr "Produkter"
+
+#: uc_order.module:382;619;787;1658;2720;2767;2898
+msgid "Total"
+msgstr "Total"
+
+#: uc_order.module:399
+msgid "Order History"
+msgstr "Ordrehistorik"
+
+#: uc_order.module:434
+msgid "The products table on the order view screen."
+msgstr ""
+
+#: uc_order.module:441
+msgid "The products table on the customer order screen."
+msgstr ""
+
+#: uc_order.module:448
+msgid "The products table on the order edit screen."
+msgstr ""
+
+#: uc_order.module:456
+msgid "The order comments table on the order view screen."
+msgstr ""
+
+#: uc_order.module:463
+msgid "The admin comments table on the order view screen."
+msgstr ""
+
+#: uc_order.module:484
+msgid "Ship to"
+msgstr "Levér til"
+
+#: uc_order.module:485
+msgid "Manage the order's shipping address and contact information."
+msgstr ""
+
+#: uc_order.module:493
+msgid "Bill to"
+msgstr "Fakturér"
+
+#: uc_order.module:494
+msgid "Manage the order's billing address and contact information."
+msgstr ""
+
+#: uc_order.module:502
+msgid "Customer Info"
+msgstr "Kundeinformation"
+
+#: uc_order.module:503
+msgid "Manage the information for the customer's user account."
+msgstr ""
+
+#: uc_order.module:512
+msgid "Manage the products an order contains."
+msgstr ""
+
+#: uc_order.module:520
+msgid "Line Items"
+msgstr "Linier"
+
+#: uc_order.module:521
+msgid "View and modify an order's line items."
+msgstr ""
+
+#: uc_order.module:529
+msgid "Order Comments"
+msgstr "Ordrekommentarer"
+
+#: uc_order.module:530
+msgid "View the order comments, used for communicating with customers."
+msgstr ""
+
+#: uc_order.module:538
+msgid "Admin Comments"
+msgstr "Administrationskommentarer"
+
+#: uc_order.module:539
+msgid "View the admin comments, used for administrative notes and instructions."
+msgstr ""
+
+#: uc_order.module:547
+msgid "Update Order"
+msgstr "Opdatér ordre"
+
+#: uc_order.module:548
+msgid "Update an order's status or add comments to an order."
+msgstr ""
+
+#: uc_order.module:566;855
+msgid "View"
+msgstr "Vis"
+
+#: uc_order.module:570
+msgid "View order %order_id."
+msgstr "Vis ordre %order_id."
+
+#: uc_order.module:578
+msgid "Edit order %order_id."
+msgstr "Redigér ordre %order_id."
+
+#: uc_order.module:584;1399;1440;1933;1943;3427
+msgid "Delete"
+msgstr "Slet"
+
+#: uc_order.module:588
+msgid "Delete order %order_id."
+msgstr "Slet ordre %order_id."
+
+#: uc_order.module:602;2875;2885
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: uc_order.module:610
+msgid "Empty Line"
+msgstr "Tom linie"
+
+#: uc_order.module:640
+msgid "Displaying !number orders at a time on the order admin overview."
+msgstr "Viser !number ordrer ad gangen på ordre-admin oversigten."
+
+#: uc_order.module:641
+msgid "Order logging is !status."
+msgstr "Ordrelogning er !status."
+
+#: uc_order.module:641;670
+msgid "enabled"
+msgstr "aktiveret"
+
+#: uc_order.module:641;670
+msgid "disabled"
+msgstr "deaktiveret"
+
+#: uc_order.module:642
+msgid "Addresses on order view pages are !status."
+msgstr "Adresser på ordrevisningssiderne er !status."
+
+#: uc_order.module:642
+msgid "capitalized"
+msgstr "Versaler"
+
+#: uc_order.module:642
+msgid "displayed as entered"
+msgstr "Vist som indtastet"
+
+#: uc_order.module:645
+msgid "You are !status the uBrowser to add products to orders."
+msgstr "Du !status uBrowser til at tilføje produkter til ordrer."
+
+#: uc_order.module:645
+msgid "using"
+msgstr "anvender"
+
+#: uc_order.module:645
+msgid "not using"
+msgstr "anvender ikke"
+
+#: uc_order.module:667;771
+msgid "Order panes on !screen screen"
+msgstr "Ordrepaneler på !screen skærm"
+
+#: uc_order.module:670
+msgid "!title is !status."
+msgstr "!title er !status."
+
+#: uc_order.module:692
+msgid "Admin settings"
+msgstr "Administrationsindstillinger"
+
+#: uc_order.module:702
+msgid "Number of orders on overview screen"
+msgstr "Antal ordrer på oversigtssiden"
+
+#: uc_order.module:708
+msgid "Enable order logging"
+msgstr "Aktivér ordrelogning"
+
+#: uc_order.module:713
+msgid "Capitalize address on order screens"
+msgstr "Adresse med versaler på ordresiden"
+
+#: uc_order.module:719
+msgid "Use the uBrowser product select on order edit screens"
+msgstr "Brug uBrowser til at vælge på ordreredigeringssider"
+
+#: uc_order.module:726
+msgid "Customer settings"
+msgstr "Kundinstillinger"
+
+#: uc_order.module:732
+msgid "Allow customers to view order invoices from their accounts."
+msgstr "Tillad kunder at se ordrer fakturaer fra deres konto."
+
+#: uc_order.module:784
+msgid "Actions"
+msgstr "Handlinger"
+
+#: uc_order.module:785
+msgid "Order ID"
+msgstr "Ordre ID"
+
+#: uc_order.module:786
+msgid "Customer"
+msgstr "Kunde"
+
+#: uc_order.module:788
+msgid "Purchase Date"
+msgstr "Købsdato"
+
+#: uc_order.module:819
+msgid "-No Name-"
+msgstr "-Navnløs-"
+
+#: uc_order.module:848
+msgid "View Order"
+msgstr "Vis ordre"
+
+#: uc_order.module:872
+msgid "All Orders"
+msgstr "Alle ordrer"
+
+#: uc_order.module:887
+msgid "View by status"
+msgstr "Vis efter status"
+
+#: uc_order.module:923
+msgid "Order created by the administration."
+msgstr "Ordre oprettet af administration."
+
+#: uc_order.module:933
+msgid "Search for an existing customer."
+msgstr "Søg efter en eksisterende kunde."
+
+#: uc_order.module:937;2370;2371
+msgid "Create a new customer."
+msgstr "Opret en ny kunde."
+
+#: uc_order.module:947
+msgid "New order customer"
+msgstr "Ny ordre kunde"
+
+#: uc_order.module:948
+msgid "Use the buttons above to have these fields filled in or just submit the form with the fields blank to create a blank order."
+msgstr ""
+
+#: uc_order.module:957;2343
+msgid "Customer number"
+msgstr "Kundenummer"
+
+#: uc_order.module:969;2355
+msgid "Primary e-mail"
+msgstr "Primær email"
+
+#: uc_order.module:995
+msgid "Search returned the following results:"
+msgstr "Søgning returnerede følgende resultater:"
+
+#: uc_order.module:1045
+msgid "Search options"
+msgstr "Søge muligheder"
+
+#: uc_order.module:1053
+msgid "Search for customers based on any of the following fields.  Use * as a wildcard to match any character.<br/>For example, searching by last name for 's*' will return all customers whose last name starts with an s.<br/>(<em>Leave a field empty to ignore it in the search.</em>)"
+msgstr ""
+
+#: uc_order.module:1060
+msgid "Billing first name"
+msgstr "Fakturering fornavn"
+
+#: uc_order.module:1070
+msgid "Billing last name"
+msgstr "Fakturering efternavn"
+
+#: uc_order.module:1080
+msgid "Billing company"
+msgstr "Fakturering virksomhed"
+
+#: uc_order.module:1090
+msgid "Shipping first name"
+msgstr "Shipping fornavn"
+
+#: uc_order.module:1100
+msgid "Shipping last name"
+msgstr "Shipping efternavn"
+
+#: uc_order.module:1110
+msgid "Shipping company"
+msgstr "Shipping virksomhed"
+
+#: uc_order.module:1121
+msgid "Start date"
+msgstr "Startdato"
+
+#: uc_order.module:1130
+msgid "End date"
+msgstr "Slutdato"
+
+#: uc_order.module:1138
+msgid "Search using date range."
+msgstr "Søg med dato interval."
+
+#: uc_order.module:1146;1753;2106
+msgid "Search"
+msgstr "Søg"
+
+#: uc_order.module:1226
+msgid "Print invoice"
+msgstr "Udskriv faktura"
+
+#: uc_order.module:1227
+msgid "Close window"
+msgstr "Luk vindue"
+
+#: uc_order.module:1233;1362;1801;1819;1851;1879;1905
+msgid "Order !order_id does not exist."
+msgstr "Ordre !order_id findes ikke."
+
+#: uc_order.module:1255
+msgid "Invoice"
+msgstr "Faktura"
+
+#: uc_order.module:1258
+msgid "Click to open a window with a printable invoice."
+msgstr "Klik for att öppna ett fönster med en utskriftsbar faktura."
+
+#: uc_order.module:1268
+msgid "Add an Order Comment"
+msgstr "Tilføj ordrekommentar"
+
+#: uc_order.module:1274
+msgid "Order comments are used primarily to communicate with the customer."
+msgstr "Ordrekommentarer bruges primært til at kommunikere med kunden."
+
+#: uc_order.module:1279;2663
+msgid "Add an Admin Comment"
+msgstr "Tilføj en administratorkommentar"
+
+#: uc_order.module:1285;2669
+msgid "Admin comments are only seen by store administrators."
+msgstr "Administrators kommentarer kan kun ses af administratorer."
+
+#: uc_order.module:1296
+msgid "Order Status"
+msgstr "Ordrestatus"
+
+#: uc_order.module:1303
+msgid "Notify Customer"
+msgstr "Giv kunde besked"
+
+#: uc_order.module:1318
+msgid "Update"
+msgstr "Opdatér"
+
+#: uc_order.module:1352
+msgid "Order updated."
+msgstr "Ordren opdateret."
+
+#: uc_order.module:1367
+msgid "It is not possible to edit order %id."
+msgstr "Det er ikke muligt at redigere ordre %id"
+
+#: uc_order.module:1393
+msgid "Submit Changes"
+msgstr "Gem ændringer"
+
+#: uc_order.module:1497
+msgid "Order changes saved."
+msgstr "Ordreændringer er gemt."
+
+#: uc_order.module:1644
+msgid "Remove"
+msgstr "Fjern"
+
+#: uc_order.module:1646;2710;2757
+msgid "Qty"
+msgstr "Antal"
+
+#: uc_order.module:1648
+msgid "Name"
+msgstr "Navn"
+
+#: uc_order.module:1650;2714;2761
+msgid "Model"
+msgstr "Model"
+
+#: uc_order.module:1652
+msgid "Weight"
+msgstr "Vægt"
+
+#: uc_order.module:1654;2716;2763
+msgid "Cost"
+msgstr "Kostpris"
+
+#: uc_order.module:1656;2718;2765
+msgid "Price"
+msgstr "Pris"
+
+#: uc_order.module:1668
+msgid "Remove this product."
+msgstr "Slet produkt."
+
+#: uc_order.module:1669
+msgid "Remove product from order?"
+msgstr "Slet produkt fra ordren?"
+
+#: uc_order.module:1683;2744;2791
+msgid "This order contains no products."
+msgstr "Denne ordre indeholder ingen produkter."
+
+#: uc_order.module:1731
+msgid "No products found."
+msgstr "Ingen produkter blev fundet."
+
+#: uc_order.module:1736
+msgid "Select a product"
+msgstr "Vælg et produkt"
+
+#: uc_order.module:1743
+msgid "Search by name or model/SKU (* is the wildcard)"
+msgstr "Søg vha. navn eller model/SKU (* er wildcard)"
+
+#: uc_order.module:1748;2114
+msgid "Select"
+msgstr "Vælg"
+
+#: uc_order.module:1758;1974;2134
+msgid "Close"
+msgstr "Luk"
+
+#: uc_order.module:1782
+msgid "Add to Order"
+msgstr "Tilføj til ordre"
+
+#: uc_order.module:1787;1928;1941
+msgid "Cancel"
+msgstr "Afbryd"
+
+#: uc_order.module:1829
+msgid "Recipient e-mail address"
+msgstr "Modtagerens email-adresse"
+
+#: uc_order.module:1843;2025
+msgid "Invalid e-mail address."
+msgstr "Ugyldig email-adresse."
+
+#: uc_order.module:1858
+msgid "Your Order Invoice"
+msgstr "Din ordre faktura"
+
+#: uc_order.module:1863
+msgid "E-mail failed."
+msgstr "Email fejlede"
+
+#: uc_order.module:1866
+msgid "Invoice e-mailed to @email."
+msgstr "Faktura sendt till @email."
+
+#: uc_order.module:1888
+msgid "Time"
+msgstr "Tid"
+
+#: uc_order.module:1888;2806;2842
+msgid "User"
+msgstr "Bruger"
+
+#: uc_order.module:1888
+msgid "Changes"
+msgstr "Ændringer"
+
+#: uc_order.module:1910
+msgid "It is not possible to delete order %id."
+msgstr "Det er ikke muligt at fjerne ordre %id."
+
+#: uc_order.module:1914
+msgid "Are you sure you want to delete order !order_id?"
+msgstr "Er du sikker på at du vil fjerne ordre !order_id?"
+
+#: uc_order.module:1945
+msgid "Order !order_id completed removed from the database."
+msgstr "Ordre !order_id fjernet fra databasen."
+
+#: uc_order.module:1963
+msgid "You must select a customer before address<br>information is available.<br>"
+msgstr "Du skal vælge en kunde før adresse<br>informationer er tilgængelige.<br>"
+
+#: uc_order.module:1966
+msgid "No addresses found for customer."
+msgstr "Ingen adresser fundet på kunden."
+
+#: uc_order.module:1969
+msgid "Select an address"
+msgstr "Vælg en adresse"
+
+#: uc_order.module:2013
+msgid "Search returned no results."
+msgstr "Søgning gav ingen resultater"
+
+#: uc_order.module:2017
+msgid "Search returned the following:"
+msgstr "Søgning gav følgende:"
+
+#: uc_order.module:2029
+msgid "Use this account?"
+msgstr "Anvend denne konto?"
+
+#: uc_order.module:2030
+msgid "User !uid - !mail"
+msgstr "Bruger !uid - !mail"
+
+#: uc_order.module:2032
+msgid "Apply"
+msgstr "Apply"
+
+#: uc_order.module:2054
+msgid "Search for a customer based on these fields."
+msgstr "Søg efter en kunde ud fra disse felter"
+
+#: uc_order.module:2055
+msgid "Use * as a wildcard to match any character."
+msgstr "Brug * som wildcard"
+
+#: uc_order.module:2056
+msgid "Leave a field empty to ignore it in the search."
+msgstr "Lad et felt stå tomt for at ignorere det i søgningen."
+
+#: uc_order.module:2062
+msgid "First name"
+msgstr "Fornavn"
+
+#: uc_order.module:2069
+msgid "Last name"
+msgstr "Efternavn"
+
+#: uc_order.module:2076;2097
+msgid "E-mail"
+msgstr "Email"
+
+#: uc_order.module:2084
+msgid "Select a customer"
+msgstr "Vælg en kunde"
+
+#: uc_order.module:2092
+msgid "Enter an e-mail address for the new customer."
+msgstr "Ange en email-adresse for den nya kundeen."
+
+#: uc_order.module:2120
+msgid "Back"
+msgstr "Tilbage"
+
+#: uc_order.module:2127
+msgid "Submit"
+msgstr "Send"
+
+#: uc_order.module:2156
+msgid "Modify 'Ship to' Information"
+msgstr "Rediger forsendelsesinformationer"
+
+#: uc_order.module:2242
+msgid "Modify 'Bill to' Information"
+msgstr "Rediger faktureringsinformationer"
+
+#: uc_order.module:2325
+msgid "Customer number: "
+msgstr "Kundenummer: "
+
+#: uc_order.module:2326
+msgid "Primary e-mail:"
+msgstr "Primær email:"
+
+#: uc_order.module:2333
+msgid "Modify 'Customer Info'"
+msgstr "Rediger kunde info"
+
+#: uc_order.module:2430;2433
+msgid "Add Product"
+msgstr "Tilføj produkt"
+
+#: uc_order.module:2437
+msgid "Add Blank Line"
+msgstr "Tilføj tom linie"
+
+#: uc_order.module:2507;2938
+msgid "Add Line Item"
+msgstr "Tilføj produkt"
+
+#: uc_order.module:2513
+msgid "Select a Type"
+msgstr "Vælg en type"
+
+#: uc_order.module:2518;2608;2610
+msgid "Add Line"
+msgstr "Tilføj linie"
+
+#: uc_order.module:2525
+msgid "Modify 'Line Items'"
+msgstr "Rediger produkter"
+
+#: uc_order.module:2538
+msgid "Title"
+msgstr "Titel"
+
+#: uc_order.module:2544;2545
+msgid "Remove line item."
+msgstr "Fjern produkter."
+
+#: uc_order.module:2548
+msgid "Remove this line item?"
+msgstr "Fjern dette produkt?"
+
+#: uc_order.module:2552
+msgid "Amount"
+msgstr "Antal"
+
+#: uc_order.module:2603
+msgid "Line item removed."
+msgstr "Produkt fjernet"
+
+#: uc_order.module:2627
+msgid "Message"
+msgstr "Meddelelse"
+
+#: uc_order.module:2631
+msgid "Order created."
+msgstr "Ordre operettet."
+
+#: uc_order.module:2681
+msgid "No admin comments have been entered for this order."
+msgstr "Ingen administrator kommentarer på denne ordre"
+
+#: uc_order.module:2712;2759
+msgid "Product"
+msgstr "Produkt"
+
+#: uc_order.module:2808
+msgid "Notified"
+msgstr "Besked sendt"
+
+#: uc_order.module:2812;2844
+msgid "Comment"
+msgstr "Kommentar"
+
+#: uc_order.module:2827
+msgid "This order has no comments associated with it."
+msgstr "Denne ordre har ingen kommentarer tilknyttet."
+
+#: uc_order.module:2857
+msgid "This order has no admin comments associated with it."
+msgstr "Denne ordre har ingen administratorkommentarer tilknyttet"
+
+#: uc_order.module:2913
+msgid "Line Item Title"
+msgstr "Linie produkttitel"
+
+#: uc_order.module:2914
+msgid "Display title of the line item."
+msgstr "Vis titel på linieproduktet"
+
+#: uc_order.module:2921
+msgid "Line Item Amount"
+msgstr "Linie produkt beløb"
+
+#: uc_order.module:2922
+msgid "Amount of the line item without a currency sign."
+msgstr ""
+
+#: uc_order.module:2945
+msgid "Return to order edit screen."
+msgstr "Tilbage til ordre redigerings siden"
+
+#: uc_order.module:2959
+msgid "Amount must be numeric."
+msgstr "Antal skal væra numerisk."
+
+#: uc_order.module:2972
+msgid "Line item added to order."
+msgstr "Linieprodukt tilføjet ordre."
+
+#: uc_order.module:3583
+msgid "customer"
+msgstr "kunde"
+
+#: uc_order.module:371
+msgid "view all orders"
+msgstr "vis alle ordrer"
+
+#: uc_order.module:371
+msgid "create orders"
+msgstr "opret ordrer"
+
+#: uc_order.module:371
+msgid "edit orders"
+msgstr "redigér ordrer"
+
+#: uc_order.module:371
+msgid "delete orders"
+msgstr "slet ordrer"
+
+#: uc_order.module:0
+msgid "uc_order"
+msgstr "uc_order"
+
+#: uc_order.info:0
+msgid "Order"
+msgstr "Ordre"
+
+#: uc_order.info:0
+msgid "REQUIRED. Receive and manage orders through your website."
+msgstr ""
+
+#: uc_order.info:0
+msgid "Ubercart - core"
+msgstr ""
+
+#: templates/admin.itpl.php:10
+msgid "Order number:"
+msgstr "Ordrenummer:"
+
+#: templates/admin.itpl.php:11
+msgid "Customer:"
+msgstr "Kunde:"
+
+#: templates/admin.itpl.php:12
+msgid "Order total:"
+msgstr "Ordre total:"
+
+#: templates/admin.itpl.php:13
+msgid "Shipping method:"
+msgstr "Leveringsmåde:"
+
+#: templates/admin.itpl.php:17
+msgid "Products:"
+msgstr "Produkter:"
+
+#: templates/admin.itpl.php:20
+#: templates/customer.itpl.php:195
+msgid "Model: "
+msgstr "Model: "
+
+#: templates/admin.itpl.php:31
+msgid "Order comments:"
+msgstr "Ordre kommentarer:"
+
+#: templates/customer.itpl.php:40
+msgid "Thanks for your order, [order-first-name]!"
+msgstr "Tak for din ordre, [order-first-name]!"
+
+#: templates/customer.itpl.php:43
+msgid "An account has been created for you with the following details:"
+msgstr "En konto er oprettet til dig med følgende detaljer:"
+
+#: templates/customer.itpl.php:44
+msgid "Username:"
+msgstr "Brugernavn:"
+
+#: templates/customer.itpl.php:45
+msgid "Password:"
+msgstr "Adgangskode:"
+
+#: templates/customer.itpl.php:48
+msgid "Want to manage your order online?"
+msgstr "Vil du styre din ordre online? "
+
+#: templates/customer.itpl.php:49
+msgid "If you need to check the status of your order, please visit our home page at [store-link] and click on \"My account\" in the menu or login with the following link:"
+msgstr "Vil du se status på din ordre, besøg vores hjemmeside på [store-link] og klik på "Min konto" i menuen eller log ind med følgende link:"
+
+#: templates/customer.itpl.php:56
+msgid "Purchasing Information:"
+msgstr "Betalingsinformationer:"
+
+#: templates/customer.itpl.php:61
+msgid "E-mail Address:"
+msgstr "Email-adresse:"
+
+#: templates/customer.itpl.php:73
+msgid "Billing Address:"
+msgstr "Faktureringsadresse:"
+
+#: templates/customer.itpl.php:77
+msgid "Shipping Address:"
+msgstr "Leveringsadresse:"
+
+#: templates/customer.itpl.php:87
+msgid "Order Grand Total:"
+msgstr "Ordre Total:"
+
+#: templates/customer.itpl.php:95
+msgid "Payment Method:"
+msgstr "Betalingsmetode:"
+
+#: templates/customer.itpl.php:104
+msgid "Order Summary:"
+msgstr "Resumé af ordren:"
+
+#: templates/customer.itpl.php:110
+msgid "Shipping Details:"
+msgstr "Leveringsdetaljer:"
+
+#: templates/customer.itpl.php:120
+msgid "Order #:"
+msgstr "Ordrenr:"
+
+#: templates/customer.itpl.php:130
+msgid "Shipping Method:"
+msgstr "Leveringsmetode:"
+
+#: templates/customer.itpl.php:140
+msgid "Products Subtotal:"
+msgstr "Produkter Subtotal:"
+
+#: templates/customer.itpl.php:170
+msgid "Total for this Order:"
+msgstr "Total for denne ordre:"
+
+#: templates/customer.itpl.php:179
+msgid "Products on order:"
+msgstr "Produkter i ordre:"
+
+#: templates/customer.itpl.php:192
+msgid "(!price each)"
+msgstr "(!price styk)"
+
+#: templates/customer.itpl.php:220
+msgid "Where can I get help with reviewing my order?"
+msgstr "Hvor kan jeg få hjælp til at gennemse min ordre?"
+
+#: templates/customer.itpl.php:221
+msgid "To learn more about managing your orders on [store-link], please visit our <a href=\"[store-help-url]\">help page</a>."
+msgstr "Besøg vores <a href=\"[store-help-url]\">hjælpeside</a> for at lære mere om hvordan du håndterer ordrer hos [store-link], "
+
+#: templates/customer.itpl.php:226
+msgid "Please note: This e-mail message is an automated notification. Please do not reply to this message."
+msgstr "Bemærk: Denne emailbesked er automatisk genereret. Svar ikke på emailen."
+
+#: templates/customer.itpl.php:228
+msgid "Thanks again for shopping with us."
+msgstr "Endnu engang tak fordi du handlede hos os."
+
