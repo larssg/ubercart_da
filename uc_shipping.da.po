@@ -329,7 +329,7 @@ msgstr ""
 
 #: uc_shipping.module:955
 msgid "Package @id has been deleted."
-msgstr "Pakke @id er slettet."
+msgstr "Pakken @id er slettet."
 
 #: uc_shipping.module:1011
 msgid "Select one..."
