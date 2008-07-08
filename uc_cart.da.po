@@ -236,12 +236,18 @@ msgstr "Grundlæggende indkøbsliste"
 msgid "Cart Contents"
 msgstr "Indkøbslistens indhold"
 
+msgid "Cart contents"
+msgstr "Indkøbslistens indhold"
+
 #: uc_cart.module:453
 msgid "Display the contents of a customer's shopping cart."
 msgstr "Vis indholdet af en kundes indkøbsliste"
 
 #: uc_cart.module:461
 msgid "Customer Information"
+msgstr "Kundeinformation"
+
+msgid "Customer information"
 msgstr "Kundeinformation"
 
 #: uc_cart.module:462
@@ -261,6 +267,9 @@ msgstr "Hent leveringsoplysninger."
 
 #: uc_cart.module:475;1643
 msgid "Billing Information"
+msgstr "Faktureringsoplysninger"
+
+msgid "Billing information"
 msgstr "Faktureringsoplysninger"
 
 #: uc_cart.module:476
