@@ -1,4 +1,5 @@
 # $Id$
+#
 # Danish translation of Drupal (general)
 # Copyright Lars Sehested <po@larssehested.com>
 #
