@@ -252,6 +252,9 @@ msgstr "Hent de nødvendige informationer for at oprette en kunde på siden."
 msgid "Delivery Information"
 msgstr "Leveringsinformation"
 
+msgid "Delivery information"
+msgstr "Leveringsinformation"
+
 #: uc_cart.module:469
 msgid "Get the information for where the order needs to ship."
 msgstr "Hent leveringsoplysninger."
@@ -266,7 +269,7 @@ msgstr "Hent basis information for opkrævning af betaling."
 
 #: uc_cart.module:482;1721
 msgid "Order Comments"
-msgstr "Kommentarer till bestillingen"
+msgstr "Kommentarer til bestillingen"
 
 #: uc_cart.module:483
 msgid "Allow a customer to put comments on an order."
