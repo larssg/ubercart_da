@@ -1,0 +1,509 @@
+# $Id$
+#
+# Swedish translation of Drupal (general)
+# Copyright Daniel Nylander <po@danielnylander.se>
+# No version information was available in the source files.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubercart product\n"
+"POT-Creation-Date: 2007-07-06 16:28-0400\n"
+"PO-Revision-Date: 2007-09-10 00:28+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: uc_product.module:27;39;689
+msgid "Products"
+msgstr "Produkter"
+
+#: uc_product.module:34;307
+#: uc_product.info:0
+msgid "Product"
+msgstr "Produkt"
+
+#: uc_product.module:40
+msgid "Administer product attributes, classes, and general settings."
+msgstr "Administrera produktattribut, klasser och allmänna inställningar."
+
+#: uc_product.module:47
+msgid "View products"
+msgstr "Vis produkter"
+
+#: uc_product.module:55
+msgid "Create product"
+msgstr "Opret produkt"
+
+#: uc_product.module:64
+msgid "Manage classes"
+msgstr "Håndtér klasser"
+
+#: uc_product.module:72;94;1211
+msgid "Product settings"
+msgstr "Produktindstillinger"
+
+#: uc_product.module:79
+msgid "Overview"
+msgstr "Oversigt"
+
+#: uc_product.module:85
+msgid "Edit"
+msgstr "Rediger"
+
+#: uc_product.module:101;1258
+msgid "Product fields"
+msgstr "Produktfelter"
+
+#: uc_product.module:111
+msgid "Imagecache default settings"
+msgstr ""
+
+#: uc_product.module:118
+msgid "Product class"
+msgstr "Produktklasse"
+
+#: uc_product.module:125
+msgid "Edit class"
+msgstr "Rediger klasse"
+
+#: uc_product.module:157
+msgid "A module to represent items in an online store."
+msgstr "Et modul som repræsenterer enheder i en webshop."
+
+#: uc_product.module:301;358;716;1405
+msgid "Name"
+msgstr "Navn"
+
+#: uc_product.module:302;366;1405;1445
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: uc_product.module:309
+msgid ""
+"This node displays the representation of a product for sale on the website. It includes \n"
+"        all the unique information that can be attributed to a specific model number."
+msgstr ""
+
+#: uc_product.module:362
+msgid "Name of the product."
+msgstr "Produktets navn."
+
+#: uc_product.module:369
+msgid "Explain this whatchamacallit."
+msgstr ""
+
+#: uc_product.module:375
+msgid "Product Information"
+msgstr "Produktinformation"
+
+#: uc_product.module:382
+msgid "SKU"
+msgstr ""
+
+#: uc_product.module:385
+msgid "Product SKU/model"
+msgstr ""
+
+#: uc_product.module:396;1224;1371
+msgid "List Price"
+msgstr "Listepris"
+
+#: uc_product.module:399
+msgid "How much no one pays."
+msgstr ""
+
+#: uc_product.module:405
+msgid "Cost"
+msgstr "Kostpris"
+
+#: uc_product.module:408
+msgid "How much we pay."
+msgstr "Hvor meget vi betaler."
+
+#: uc_product.module:414;1226;1373
+msgid "Sell Price"
+msgstr "Salgspris"
+
+#: uc_product.module:417
+msgid "How much our customers pay."
+msgstr "Hvor meget vores kunder betaler."
+
+#: uc_product.module:423
+msgid "Pounds"
+msgstr "Pund"
+
+#: uc_product.module:424
+msgid "Kilograms"
+msgstr "Kilogram"
+
+#: uc_product.module:425
+msgid "Ounces"
+msgstr ""
+
+#: uc_product.module:426
+msgid "Grams"
+msgstr "Gram"
+
+#: uc_product.module:429
+msgid "Unit of measurement"
+msgstr "Måleenheder"
+
+#: uc_product.module:436;1227;1374;1377
+msgid "Weight"
+msgstr "Vægt"
+
+#: uc_product.module:438
+msgid "How heavy it is."
+msgstr "Hvor tungt, produktet er."
+
+#: uc_product.module:493
+msgid "Price must be in a valid number format. No commas and only one decimal point."
+msgstr ""
+
+#: uc_product.module:504
+msgid "Weight must be in a valid number format. No commas and only one decimal point."
+msgstr ""
+
+#: uc_product.module:621;677
+msgid "Advanced search"
+msgstr "Avanceret søgning"
+
+#: uc_product.module:632
+msgid "Containing any of the words"
+msgstr ""
+
+#: uc_product.module:638
+msgid "Containing the phrase"
+msgstr ""
+
+#: uc_product.module:644
+msgid "Containing none of the words"
+msgstr ""
+
+#: uc_product.module:653
+msgid "Only in the category(s)"
+msgstr ""
+
+#: uc_product.module:670
+msgid "Only of the type(s)"
+msgstr ""
+
+#: uc_product.module:702
+msgid "Lists a group of products in an abbreviated format."
+msgstr ""
+
+#: uc_product.module:715;1222;1369
+msgid "Image"
+msgstr "Billede"
+
+#: uc_product.module:717
+msgid "Price"
+msgstr "Pris"
+
+#: uc_product.module:721;756;1205;1206;1302;1308;1582
+msgid "Add to cart"
+msgstr "Læg i kurven"
+
+#: uc_product.module:737
+msgid "n/a"
+msgstr ""
+
+#: uc_product.module:790
+msgid "Images"
+msgstr "Billeder"
+
+#: uc_product.module:793
+msgid "In order to display product images, please <a href=\"!href\">enable</a> the <a href=\"http://drupal.org/project/cck\">Content</a>, <a href=\"http://drupal.org/project/imagefield\">CCK Image field</a>, and the <a href=\"http://drupal.org/project/imagecache\">Imagecache</a> modules."
+msgstr ""
+
+#: uc_product.module:819
+msgid "Imagefield and Imagecache have been set up to display product images."
+msgstr ""
+
+#: uc_product.module:824
+msgid "Click <strong><a href=\"!path\">here</a></strong> to create defaults for the following problems:"
+msgstr "Klicka <strong><a href=\"!path\">här</a></strong> för att skapa standardvärden för följande problem:"
+
+#: uc_product.module:827
+msgid "The Image field has not been created for CCK."
+msgstr ""
+
+#: uc_product.module:830
+msgid "The Image field has not been attached to Product nodes."
+msgstr ""
+
+#: uc_product.module:833
+msgid "The expected Imagecache presets (\"!presets\") have not been created."
+msgstr ""
+
+#: uc_product.module:836
+msgid "The Imagecache presets do not contain actions to perform on images. Images may be displayed in their original formats."
+msgstr ""
+
+#: uc_product.module:894
+msgid "Your item(s) have been updated."
+msgstr "Dina objekt har uppdaterats."
+
+#: uc_product.module:1027;1047
+msgid "- Show links -"
+msgstr "- Vis links -"
+
+#: uc_product.module:1027;1043
+msgid "- Hide links -"
+msgstr "- Skjul links -"
+
+#: uc_product.module:1123
+msgid "Vocabulary"
+msgstr "Ordliste"
+
+#: uc_product.module:1184;1196
+msgid "Reset"
+msgstr "Nulstil"
+
+#: uc_product.module:1187
+msgid "List"
+msgstr "Liste"
+
+#: uc_product.module:1205
+msgid "Teaser and catalog pages = %text"
+msgstr ""
+
+#: uc_product.module:1206
+msgid "Product view pages = %text"
+msgstr ""
+
+#: uc_product.module:1207
+msgid "<em>Add to Cart</em> submit button text:"
+msgstr "Text för knappen <em>Lägg till i varukorg</em>:"
+
+#: uc_product.module:1213
+msgid "Showing !number products per page."
+msgstr ""
+
+#: uc_product.module:1214
+msgid "The <em>Add to Cart</em> form is !status in product teasers."
+msgstr ""
+
+#: uc_product.module:1214;1215
+msgid "enabled"
+msgstr "aktiveret"
+
+#: uc_product.module:1214;1215
+msgid "disabled"
+msgstr "deaktiverat"
+
+#: uc_product.module:1215
+msgid "The Quantity field in the <em>Add to Cart</em> form is !status."
+msgstr ""
+
+#: uc_product.module:1221;1368
+msgid "Model"
+msgstr "Model"
+
+#: uc_product.module:1223;1370
+msgid "Display Price"
+msgstr "Vis pris"
+
+#: uc_product.module:1225;1372
+msgid "Cost (seen only by 'administer products' permission)"
+msgstr ""
+
+#: uc_product.module:1260
+msgid "Displayed product fields: !list"
+msgstr ""
+
+#: uc_product.module:1272
+msgid "Products per page"
+msgstr "Produkter per side"
+
+#: uc_product.module:1273
+msgid "The number of products per page in a list."
+msgstr ""
+
+#: uc_product.module:1280
+msgid "<em>Add to Cart</em> form in node teasers is"
+msgstr ""
+
+#: uc_product.module:1281;1287
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: uc_product.module:1281;1287
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: uc_product.module:1286
+msgid "Quantity field in <em>Add to Cart</em> form is"
+msgstr ""
+
+#: uc_product.module:1293
+msgid "<em>Add to Cart</em> button text"
+msgstr ""
+
+#: uc_product.module:1294
+msgid "Use the textboxes to adjust the text of the submit button for <em>Add to Cart</em> forms in various places on the site."
+msgstr ""
+
+#: uc_product.module:1300
+msgid "Teaser forms"
+msgstr ""
+
+#: uc_product.module:1301
+msgid "For the form displayed on teasers and catalog pages."
+msgstr ""
+
+#: uc_product.module:1306
+msgid "Product view"
+msgstr "Produktvisning"
+
+#: uc_product.module:1307
+msgid "For the form displayed on the product view page."
+msgstr ""
+
+#: uc_product.module:1361
+msgid "Save settings"
+msgstr "Gem indstillinger"
+
+#: uc_product.module:1377
+msgid "Enable"
+msgstr "Aktiver"
+
+#: uc_product.module:1377
+msgid "Product Field"
+msgstr "Produktfelt"
+
+#: uc_product.module:1405
+msgid "Class ID"
+msgstr ""
+
+#: uc_product.module:1405
+msgid "Operations"
+msgstr ""
+
+#: uc_product.module:1412
+msgid "edit"
+msgstr "rediger"
+
+#: uc_product.module:1413
+msgid "delete"
+msgstr "slet"
+
+#: uc_product.module:1417
+msgid "No product classes have been defined yet."
+msgstr "Der er endnu ikke defineret nogen produktklasser."
+
+#: uc_product.module:1421
+msgid "Add a Class"
+msgstr "Lägg till en klass"
+
+#: uc_product.module:1436
+msgid "Classes"
+msgstr "Klasser"
+
+#: uc_product.module:1440
+msgid "Class name"
+msgstr "Klassenavn"
+
+#: uc_product.module:1449
+msgid "Submit"
+msgstr "Gem"
+
+#: uc_product.module:1495
+msgid "Be very sure you want to delete the %type product class. "
+msgstr ""
+
+#: uc_product.module:1497
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: uc_product.module:1497
+msgid "Cancel"
+msgstr "Afbryd"
+
+#: uc_product.module:1508
+msgid "The content type %name has been deleted."
+msgstr ""
+
+#: uc_product.module:1509
+msgid "Deleted content type %name."
+msgstr "Fjern indholdstypen %name."
+
+#: uc_product.module:1517
+msgid "Product class %type deleted."
+msgstr "Produktklassen %type slettes."
+
+#: uc_product.module:1551
+msgid "!m"
+msgstr "!m"
+
+#: uc_product.module:1574
+msgid "Quantity"
+msgstr "Antal"
+
+#: uc_product.module:1588
+msgid "Numeric quantities only, please."
+msgstr ""
+
+#: uc_product.module:1591
+msgid "Go to <a href=\"!cart\">your cart</a> if you want to remove items."
+msgstr "Gå til <a href=\"!cart\">din indkøbskurv</a> hvis du vil fjerne produkter."
+
+#: uc_product.module:1594
+msgid "OK, nothing added to your cart."
+msgstr ""
+
+#: uc_product.module:1614
+msgid "@label: !price"
+msgstr "@label: !price"
+
+#: uc_product.module:1631
+msgid "!price"
+msgstr "!price"
+
+#: uc_product.module:1636
+msgid "Price: !price"
+msgstr "Pris: !price"
+
+#: uc_product.module:1649
+msgid "Weight: !weight"
+msgstr "Vægt: !weight"
+
+#: uc_product.module:1509
+msgid "menu"
+msgstr "menu"
+
+#: uc_product.module:167
+msgid "administer products"
+msgstr "administrer produkter"
+
+#: uc_product.module:167
+msgid "administer product classes"
+msgstr "administrer produktklasser"
+
+#: uc_product.module:167
+msgid "create products"
+msgstr "opret produkter"
+
+#: uc_product.module:167
+msgid "edit own products"
+msgstr "redigere egne produkter"
+
+#: uc_product.module:167
+msgid "edit products"
+msgstr "redigere produkter"
+
+#: uc_product.module:0
+msgid "uc_product"
+msgstr "uc_product"
+
+#: uc_product.info:0
+msgid "REQUIRED. A module to represent items in an online store. Imagecache and CCK Image field recommended."
+msgstr ""
+
+#: uc_product.info:0
+msgid "Ubercart - core"
+msgstr ""
+
